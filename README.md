@@ -11,7 +11,3 @@
 - [ ] **App6 - Game Cara ou Coroa**
 - [ ] **App7 - Calculadora**
 - [ ] **App8 - WhatsApp Clone**
-
-### To-Do
-- [ ] Refatorar os códigos visando usar as boas práticas da tecnologia
-- [ ] Recriar os apps em Android
